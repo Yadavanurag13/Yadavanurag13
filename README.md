@@ -1,28 +1,28 @@
 ![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 
 <h1 align="center">
-नमस्ते (Namaste), I Am Ashutosh Gupta!<br>
+नमस्ते (Namaste), I Am Anurag Yadav!<br>
 </h1>
 <div align="center">
  
- 🔭 I’m currently working on *FullStack Projects*
+ 🔭 I’m currently working on *Backend Projects*
  
- 🌱 I’m currently learning **Docker, Supabase, Backend Technologies**
+ 🌱 I’m currently learning **Django**
 
  </div>
  
 <div align="center"> 
 
  
-  <a href="mailto:ashutoshg479@gmail.com">
+  <a href="yadavanurag1310@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/ashutooshgupta/" target="_blank">
+  <a href="https://www.linkedin.com/in/yadavanurag13/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+<!--   </a>
   <a href="https://theashutoshgupta.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  </a> -->
 </div>
 
  <hr/>
