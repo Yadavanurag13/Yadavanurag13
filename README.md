@@ -1,4 +1,3 @@
-
 Hi, I'm Anurag Yadav 👋
 I am a Software Engineer Intern at Telaverge Communications and an Open Source Enthusiast. Passionate about Django, Python, and scalable systems, I love building high-performance applications and contributing to the developer community.
 
