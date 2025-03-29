@@ -4,8 +4,13 @@ I am a Software Engineer Intern at Telaverge Communications and an Open Source E
 🚀 Currently working as a Software Engineer Intern at Telaverge Communications
 
 🔭 Contributor to the DjangoIndia open-source project 
+
 🤓 Community Volunteer at Django India 
+
 💻 Tech Stack: Django, Django REST Framework, Kubernetes, Celery, RabbitMQ, Docker 
+
 👨‍💻 Languages: Python, Java, C++ 
+
 💬 Ask me about Django, Open Source, and System Design 
+
 📫 Reach me at: yadavanurag1310@gmail.com 
