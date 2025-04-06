@@ -1,16 +1,11 @@
 Hi, I'm Anurag Yadav 👋
-I am a Software Engineer Intern at Telaverge Communications and an Open Source Enthusiast. Passionate about Django, Python, and scalable systems, I love building high-performance applications and contributing to the developer community.
+I'm a Software Engineer Intern at Telaverge Communications and an active Open Source Contributor. I’m passionate about building scalable, high-performance systems using Django and Python, and I enjoy contributing to the developer community through impactful projects and collaboration.
 
-🚀 Currently working as a Software Engineer Intern at Telaverge Communications
+🚀 Currently interning at Telaverge Communications, working on 5G and IMS testbed deployments using Open5GS, UERANSIM, and Kamailio IMS.
+🔧 Contributor to djangoindia.org, where I developed features like the Django Wall, newsletter APIs, and handled production deployment with Docker and Nginx.
+🌱 Volunteering with the Django India Community, supporting events and open-source initiatives.
+💻 Tech Stack: Django, Django REST Framework, Celery, RabbitMQ, Docker, Kubernetes, Nginx
+👨‍💻 Languages: Python, Java, C++
+💬 Let’s talk about: Django, Open Source, System Design, Backend Infrastructure
+📫 Reach me at: yadavanurag1310@gmail.com
 
-🔭 Contributor to the DjangoIndia open-source project 
-
-🤓 Community Volunteer at Django India 
-
-💻 Tech Stack: Django, Django REST Framework, Kubernetes, Celery, RabbitMQ, Docker 
-
-👨‍💻 Languages: Python, Java, C++ 
-
-💬 Ask me about Django, Open Source, and System Design 
-
-📫 Reach me at: yadavanurag1310@gmail.com 
